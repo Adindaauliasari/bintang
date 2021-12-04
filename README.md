@@ -2,7 +2,10 @@
   
 using namespace std;
 
-int main(){
+int main()
+
+{
+
 	int l=1, m=9, n=1;  
       
     for(l=1;l<=9;l++){
